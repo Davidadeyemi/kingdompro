@@ -260,8 +260,7 @@ ul,li{
 ====================================================================
 
 ***/
-
-.preloader{ 
+/**.preloader{ 
 	position:fixed; 
 	left:0px; 
 	top:0px; 
@@ -272,6 +271,7 @@ ul,li{
 	background-position:center center; 
 	background-repeat:no-repeat; 
 	background-image:url(../images/icons/preloader.gif);
+	-->
 }
 
 /*** 
